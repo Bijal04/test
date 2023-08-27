@@ -1,0 +1,5 @@
+{{#user}}
+Name: Bijal Panchal
+Skills: HTML, CSS, JS, Next.js
+Email: panchalbijal249@gmail.com
+{{/user}}
